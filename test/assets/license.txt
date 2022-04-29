@@ -1,0 +1,14 @@
+====BEGIN LICENSE====
+Serial: foo-test-alpha
+Licensed to:  (: "")
+Metadata: {"agency":"A144109"}
+Transaction ID: 
+Subscription ID: 
+Expires on: 2022-05-29T17:02:00.000+02:00
+Signed on: 2022-04-29T15:03:37+00:00
+Issued by: Foo Test (user: "foo@test.cloud")
+Issued for: 
+=====END LICENSE=====
+====BEGIN SIGNATURE====
+jLB7Nw8cbNOUwevUyv+S7+c6vg6RsBftrANQYqcl7v/qm27XPjp4WTDxp6bgY8BGhrfD+QEBkK88COk8x40lSPihKab74TOV1yU0h2JL+aOkhllDIXDs7TWmOS3QKiXMhUCbGOSh7NtguICKJpCBRfnmm66Q1DYF1QGoOw7r0ilC1etLqo2c5xPbrm06iocaptuAQ/vGWl2oMDpvT+LuahiyJ0AMlvTqKUM9HgeDFCM/2DS9xJECk2Zb7Mnm8qC3ZTYuB1LVGSStlzl2BOorHrp/4VXhsqxdGvCk8CU5C2FaMTqVwSMKRF5cpB0GizzTzjaM2v/aRi/rY3NY4S5NzsMALpOOOHDzRPWTFKM9Vjt1JZ1AS7hkOczfVVZlKGQryjHpENHmijG/lOm6jsASEZsRd1yzAssqLq0L21xxHJlqQRi2ehI9ugZn8jChTMsQ+kYI2kd+i5Cr9YTYuwr3xx6WLlejvnmoOxOGPjUR93q9E6DGoQya9ncmg/HF51w+FNdHoPFgEIlSXy8PDc/y8s4hAUP0F/pLpum59DC0cyrgcxkkv6vp+CcmmhpAJvHUa9vNwWSc4D4QtPquv4/AGLYcZvqTvwfUY3qs1q+PGDsOobKRn4RKcC+UquGTDYnR/OuFQHj7hI8mbR5e00sFnlrXdoi/QJUL6WkltUopjo4=
+====END SIGNATURE====
