@@ -30,7 +30,7 @@ func New(license string, options map[string]interface{}) (*License, error) {
 		options = map[string]interface{}{}
 	}
 	if options["PublicKey"] == nil {
-		options["PublicKey"] = "https://buy.bmint.it/api/v1/service/microservice/licensor/key"
+		options["PublicKey"] = "https://buy.bmint.studio/api/v1/service/microservice/licensor/key"
 	}
 	byteLicense, err := parseArgument(license, options)
 	if err != nil {
